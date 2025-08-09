@@ -1,12 +1,23 @@
-# React + Vite
+# ⚛ First React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed by **Shahmeer Ali Muhammad Aslam** — React JS & Front-End Developer.
 
-Currently, two official plugins are available:
+## 📌 Overview
+My **first React application**, demonstrating:
+- Reusable components
+- State management with props
+- Dynamic UI rendering
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Technologies
+- **Frontend:** React JS, JavaScript, HTML, CSS
+- **Version Control:** Git, GitHub
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Related Projects
+- [NetNest – TypeScript App](https://github.com/shahmeeraslam/NetNest)  
+- [Portfolio Website](https://github.com/shahmeeraslam/SHAHMEER-PORTFOLIO)
+
+---
+
+💻 **View my GitHub profile:** [Shahmeer Ali Muhammad Aslam](https://github.com/shahmeeraslam)  
+📧 **Email:** shahmeeraslam976@gmail.com
